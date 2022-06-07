@@ -1,7 +1,7 @@
 
 QuestionRatings.xslx 
 
-Ratings were collected by asking X participants to rate their interest and urge towards 143 questions. 
+Ratings were collected by asking 39 participants to rate their interest and urge towards 143 questions. 
 Participants were instructed:
 
 In the following study, you will be asked to provide two types of judgments on each of the questions below. The ratings are for the questions' *Interest* and *Urge*, both on a scale of 1-10. 
