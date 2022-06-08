@@ -11,8 +11,10 @@ The instructions given to participants were as follow:
 > In the following study, you will be asked to provide two types of  judgments on each of the questions below. The ratings are for the  questions' *Interest* and *Urge*, both on a scale of 1-10.  To clarify what we mean, let us explore a few examples:
 >     1. `What is Justin Bieber’s favorite breakfast cereal brand?`
 >      Many expect that the answer will not be interesting. Yet, most people experience an urge to find out what it is. 
+>      
 >      2. `What are the genetic differences between Apes and Humans?`
 >      Here, many expect the answer to be interesting. Yet, most people do not experience a strong urge to find out the answer right now.
+>      
 >      3. `What explorer wrote the famous reply poem to Christopher Marlowe's 1599 poem "The Passionate Shepherd to his love"?` 
 >      Here most people expect that the answer will not be interesting, and they also do not have an urge to find out what it is.
 
