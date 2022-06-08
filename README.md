@@ -1,33 +1,35 @@
+The data in this repository accompanies the **curiosity manuscript** exploring the temporal dynamics of curiosity, and its  implications when deployed in our modern, technological, informationally-loaded environment.
 
-QuestionRatings.xslx 
+-------------
+# QuestionRatings.xslx 
 
-Ratings were collected by asking 39 participants to rate their interest and urge towards 143 questions. 
-Participants were instructed:
+This excel file organizes the Urge and Interest ratings of 143 questions, as was executed by 39 participants. 
+## Data collection
+The instructions given to participants were as follow:
 
-In the following study, you will be asked to provide two types of judgments on each of the questions below. The ratings are for the questions' *Interest* and *Urge*, both on a scale of 1-10. 
-To clarify what we mean, let us explore a few examples:
-    1. What is Justin Bieber’s favorite breakfast cereal brand?
-     Many expect that the answer will not be interesting. Yet, most people experience an urge to find out what it is.
 
-     2. What are the genetic differences between Apes and Humans?
-     Here, many expect the answer to be interesting. Yet, most people do not experience a strong urge to find out the answer right now.
+> In the following study, you will be asked to provide two types of  judgments on each of the questions below. The ratings are for the  questions' *Interest* and *Urge*, both on a scale of 1-10.  To clarify what we mean, let us explore a few examples:
+>     1. `What is Justin Bieber’s favorite breakfast cereal brand?`
+>      Many expect that the answer will not be interesting. Yet, most people experience an urge to find out what it is. 
+>      2. `What are the genetic differences between Apes and Humans?`
+>      Here, many expect the answer to be interesting. Yet, most people do not experience a strong urge to find out the answer right now.
+>      3. `What explorer wrote the famous reply poem to Christopher Marlowe's 1599 poem "The Passionate Shepherd to his love"?` 
+>      Here most people expect that the answer will not be interesting, and they also do not have an urge to find out what it is.
 
-     3. What explorer wrote the famous reply poem to Christopher Marlowe's 1599 poem "The Passionate Shepherd to his love"? 
-     Here most people expect that the answer will not be interesting, and they also do not have an urge to find out what it is.
+Each participant was asked to rate both their urge and interest for each of the 143 questions on a 1-10 scale. 
+## File structure 
+The columns in the file are:
 
-Each participant was asked to rate both their urge and interest for all 143 questions on a 1-10 scale. 
+ 1. **Question**: The question participants were asked to rate 
+ 2. **Interest**:    Mean interest rating across all participants 
+ 3. **Urge**: Mean urge rating across all participants 
+ 4. **Zinterest**: The ZScore of (Mean) Interest across all questions 
+ 5. **Zurge**: The ZScore of (Mean) Urge across all questions 
+ 6. **ZinterestTransformed**: The transformed Zinterest, equal to $(2*Z_{interest}-Z_{urge})$
+ 7. **ZurgeTransformed**: The transformed Zurge, equal to $(2*Z_{urge}-Z_{interest})$
 
-The columns in this file:
-Question: The question participants were asked to rate
-Interest: Mean interest rating across all participants
-Urge: Mean urge rating across all participants
-Zinterest: The ZScore of (Mean) Interest across all questions
-Zurge: The ZScore of (Mean) Urge across all questions
-ZinterestTransformed: The transformed Zinterest, equal to 2*Zinterest-Zurge
-ZurgeTransformed: The transformed Zurge, equal to 2*Zurge-Zinterest
 
--------------------------
-QuestionTopics.xslx
+# QuestionTopics.xslx
 
 Each question was associated with a subset of 29 topics
 Assoications were performed by human classifiers, see paper for more details regarding the process. 
