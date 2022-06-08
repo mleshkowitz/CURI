@@ -9,7 +9,8 @@ The instructions given to participants were as follow:
 
 
 > In the following study, you will be asked to provide two types of  judgments on each of the questions below. The ratings are for the  questions' *Interest* and *Urge*, both on a scale of 1-10.  To clarify what we mean, let us explore a few examples:
->     1. `What is Justin Bieber’s favorite breakfast cereal brand?`
+>
+>      1. `What is Justin Bieber’s favorite breakfast cereal brand?`
 >      Many expect that the answer will not be interesting. Yet, most people experience an urge to find out what it is. 
 >      
 >      2. `What are the genetic differences between Apes and Humans?`
