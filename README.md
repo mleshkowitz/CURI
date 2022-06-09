@@ -73,3 +73,6 @@ Each value in this sheet reflects the Interest/Urge preference of one participan
 ### File structure 
 First Row in spreadsheet: Name of experiment
 Second Row: Name of condition
+
+# Analysis
+Full analysis and summary of each experiment may be accessed and excuted via the [analysis](https://github.com/mleshkowitz/CURI/tree/master/analysis) folder. 
