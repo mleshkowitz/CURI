@@ -75,4 +75,5 @@ First Row in spreadsheet: Name of experiment
 Second Row: Name of condition
 
 # Analysis
-Full analysis and summary of each experiment may be accessed and excuted via the [analysis](https://github.com/mleshkowitz/CURI/tree/master/analysis) folder. 
+* Full analysis and summary of each experiment may be accessed and excuted via the [analysis](https://github.com/mleshkowitz/CURI/tree/master/analysis) folder.
+* Calculation of effect size may be found in the file [CURIOSITY-participants_values-effect_size.xlsx](https://github.com/mleshkowitz/CURI/blob/master/CURIOSITY-participants_values-effect_size.xlsx).
